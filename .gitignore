@@ -1,3 +1,5 @@
 bin/
 etc/
 man/
+
+.DS_Store
